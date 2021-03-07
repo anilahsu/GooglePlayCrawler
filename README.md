@@ -24,5 +24,3 @@ mysql -uroot < init.sql
 # Run crawler
 scrapy crawl google -s JOBDIR=crawls/google_play
 ```
-
-> If you want to switch the language of Google Play, you could go to modify the function `process_links` in `spiders/google.py`.
