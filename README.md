@@ -10,7 +10,7 @@ A crawler that crawls all applications' data from the Google Play and save it to
 
 ```shell
 # Clone this repo
-git clone https://github.com/yaoandy107/google_play_crawler.git
+git clone https://github.com/simple1017/google_play_crawler.git
 
 # Switch the directory
 cd google_play_crawler
