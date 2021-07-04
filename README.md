@@ -1,3 +1,5 @@
+![GooglePlay](https://user-images.githubusercontent.com/50144690/124400709-28b86b00-dd57-11eb-930e-5c537919c10e.jpeg)
+
 # Google Play Crawler
 
 A crawler that crawls all applications' data from the Google Play and save it to MySQL.
@@ -25,4 +27,3 @@ mysql -uroot < init.sql
 scrapy crawl google -s JOBDIR=crawls/google_play
 ```
 
-![GooglePlay](https://user-images.githubusercontent.com/50144690/124400709-28b86b00-dd57-11eb-930e-5c537919c10e.jpeg)
